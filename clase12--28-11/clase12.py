@@ -38,4 +38,29 @@ def registrar_producto():
     
 
 #listado de productos
-#si esta vacio 
+#si esta vacio --> informar vacio
+#recorre el dict con for 
+
+
+#actualizar productos
+#cuando se requiere actualizar el stock o el precio
+#ingrese el codigo de producto --> producto actualizado
+
+
+#eliminacion de producto
+#se elimina en base al codigo del producto
+#buscar en base al codigo
+#si no esta --> informar
+
+
+#busqueda de producto
+#en base al codigo del producto
+
+
+#reporte stock bajo
+#en base a un stock ingresado --> muestre los productos con ese stock o inferior al mismo
+#valores logicos a ingresar
+
+
+#menu principal
+#puede ser un funcion --> menu principal()
